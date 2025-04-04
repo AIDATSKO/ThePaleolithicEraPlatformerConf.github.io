@@ -15,7 +15,7 @@ Opting out of data publication
 Players may opt out of the publication of any personal information, except for data collected by the game for display as a public achievement, such as leaderboards.
 
 Changes to the privacy policy
-If there are any changes to our privacy policy, we will regularly update and publish a new version on our website at the following link: [[link to the privacy policy page](https://github.com/AIDATSKO/ThePaleolithicEraPlatformerConf.github.io)].
+If there are any changes to our privacy policy, we will regularly update and publish a new version on our website at the following link: [[link to the privacy policy page](https://appadstxt-44d97.web.app/privacy-policy.html)].
 
 Entertainment purpose of games
 Our games are designed solely for entertainment purposes and do not contain any useful information for players to rely on as anything meaningful or truthful.
